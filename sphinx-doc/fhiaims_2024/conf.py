@@ -87,8 +87,9 @@ html_theme = 'sphinx_nefertiti'
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-html_theme_options = {'font_family':'Montserrat',
-                      'sans_serif_font':'Montserrat',}
+html_theme_options = {'style':'indigo',
+                      'sans_serif_font':'Montserrat',
+                      'documentation_font':'Montserrat'}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
