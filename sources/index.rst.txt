@@ -47,6 +47,8 @@ Registration
 
 If you plan to attend the meeting then please `register here <https://null>`_ so that the correct catering and accessibility requirements can be met.
 Abstracts for both posters and talks are welcomed and can be submitted during the registration process. There is no fee for registration.
+The deadline for registration and abstract submission is 24/04/2024. Once registered, your place at the meeting will be confirmed by the 
+organising committee after this date.
 
 Programme of talks
 ------------------

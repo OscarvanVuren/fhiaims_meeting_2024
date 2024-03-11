@@ -90,7 +90,7 @@ html_theme = 'sphinx_nefertiti'
 html_theme_options = {'style':'indigo',
                       'sans_serif_font':'Montserrat',
                       'documentation_font':'Montserrat',
-                      'doc_headers_font':'Montserrat'}
+                      'doc_headers_font':'Montserrat',}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
