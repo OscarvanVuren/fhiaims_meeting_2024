@@ -35,8 +35,10 @@ Tutorials and Hack
 ------------------
 
 This meeting will include a number of tutorials before the main sessions of talks. The topics of these tutorials are ultimately to be driven by what attendees wish to
-see tutorials on however there will be a session on the fundamentals of FHI-aims and hwo best to utilise the software. Other, more advanced tutorials will be available and
+see tutorials on however there will be a session on the fundamentals of FHI-aims and how best to utilise the software. Other, more advanced tutorials will be available and
 will be published here in due course.
+
+.. include:: tutorials.rst
 
 After the closing of the main body of the meeting, all attendees are invited to a code hack, wherein the developers of the codebase will get together and take part in some
 collaborative coding. The organisers would like to invite anyone with a suggestion for features to be included in FHI-aims to write these into the appropriate box during

@@ -1,4 +1,5 @@
-
+This file contains the index.html file as it should be correctly edited with comments.
+Lines between large strings of hashes # indicate where changes should be made.
 
 <!DOCTYPE html>
 <html class="no-js" lang="en">
@@ -23,7 +24,7 @@
           <link rel="stylesheet" type="text/css" href="static/fonts/montserrat/stylesheet.css" />
           <link rel="stylesheet" type="text/css" href="static/fonts/montserrat/stylesheet.css" />
           <link rel="stylesheet" type="text/css" href="static/pygments_dark.css" />
-        <!--<link rel="index" title="Index" href="genindex.html" /> -->
+        <!--link rel="index" title="Index" href="genindex.html" />-->
         <link rel="search" title="Search" href="search.html" />
         <link rel="top" title="UK FHI-aims U&amp;D Meeting 2024  documentation" href="#" />
     <style>
@@ -75,7 +76,9 @@
       <li class="nav-item col-12 col-xl-auto">
         <form id="nftt-search-form" action="search.html" method="get">
           <div class="input-group">
+          #######################################################################################
             <input type="text" name="q" class="form-control" placeholder="Search" aria-label="Search" aria-describedby="button-search">
+            #####################################################################################
             <input type="hidden" name="check_keywords" value="yes" />
             <input type="hidden" name="area" value="default" />
             <button class="btn btn-primary" type="submit" id="button-search" aria-label="Search"><i class="bi bi-search"></i></button>
@@ -148,9 +151,11 @@
         <aside class="nftt-sidebar">
           <div class="nftt-sidebar-content">
             <div class="title d-none d-xl-block">
-              <!--
+            #################################################################################
+            <!--  
               <i class="bi bi-book"></i>&nbsp;&nbsp;<span>Index</span>
               -->
+              ###############################################################################
             </div>
             <div id="sidebar" tabindex="-1" class="offcanvas-xl offcanvas-start" aria-labelledby="nfttSidebarOffcanvasLabel">
                 <!-- danirus sidebartemplate: "globaltoc.html" --><div class="offcanvas-header border-bottom">
@@ -163,9 +168,11 @@
 <div class="offcanvas-body">
   <nav class="toc" aria-label="Main menu">
     <div class="mb-3 p-1 pt-3 pb-4 border-bottom">
+    ########################################################################################
       <!--
       <input id="sidebar-filter" type="text" name="filter" class="form-control form-control-sm" placeholder="filter" aria-label="filter">
       -->
+      ######################################################################################
     </div>
     
   </nav>
@@ -204,36 +211,8 @@ More information about how to get to the university can be found on the <a class
 <section id="tutorials-and-hack">
 <h2>Tutorials and Hack<a class="headerlink" href="#tutorials-and-hack" title="Permalink to this heading">¶</a></h2>
 <p>This meeting will include a number of tutorials before the main sessions of talks. The topics of these tutorials are ultimately to be driven by what attendees wish to
-see tutorials on however there will be a session on the fundamentals of FHI-aims and how best to utilise the software. Other, more advanced tutorials will be available and
+see tutorials on however there will be a session on the fundamentals of FHI-aims and hwo best to utilise the software. Other, more advanced tutorials will be available and
 will be published here in due course.</p>
-<table class="table-hover table-bordered table-striped docutils align-default">
-<thead>
-<tr class="row-odd"><th class="head"><p>Time</p></th>
-<th class="head"><p>Room</p></th>
-<th class="head"><p><em>Tutorials</em></p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td rowspan="2"><p>09:00</p></td>
-<td rowspan="2"><p>TBC</p></td>
-<td><p>TUTORIAL 1</p></td>
-</tr>
-<tr class="row-odd"><td><p>LEADER 1</p></td>
-</tr>
-<tr class="row-even"><td rowspan="2"><p>09:00</p></td>
-<td rowspan="2"><p>TBC</p></td>
-<td><p>TUTORIAL 2</p></td>
-</tr>
-<tr class="row-odd"><td><p>LEADER 2</p></td>
-</tr>
-<tr class="row-even"><td rowspan="2"><p>09:00</p></td>
-<td rowspan="2"><p>TBC</p></td>
-<td><p>TUTORIAL 3</p></td>
-</tr>
-<tr class="row-odd"><td><p>LEADER 3</p></td>
-</tr>
-</tbody>
-</table>
 <p>After the closing of the main body of the meeting, all attendees are invited to a code hack, wherein the developers of the codebase will get together and take part in some
 collaborative coding. The organisers would like to invite anyone with a suggestion for features to be included in FHI-aims to write these into the appropriate box during
 the registration process.</p>
