@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. image:: static/_images/FHI-aims-logo.png
+.. image:: FHI-aims-logo.png
    :align: center
 
 UK FHI-aims User and Developer Meeting 2024
