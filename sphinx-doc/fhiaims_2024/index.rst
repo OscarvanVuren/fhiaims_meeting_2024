@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. image:: ./FHI-aims-logo.png
+.. image:: static/_images/FHI-aims-logo.png
    :align: center
 
 UK FHI-aims User and Developer Meeting 2024
@@ -43,7 +43,7 @@ see tutorials on however there will be a session on the fundamentals of FHI-aims
 Currently suggested topics include a general introduction to FHI-aims, excited state calculations, ASI API or MPE implicit solvation, beyond DFT methods and embedding.
 Other, more advanced tutorials will be available and will be published here in due course.
 
-**Schedule TBA**
+**Full schedule TBA**
 
 .. .. include:: tutorials.rst
 
@@ -77,7 +77,7 @@ General outline is as follows:
 .. Presented posters
 .. -----------------
 
-**Posters are TBA**
+.. **Posters are TBA**
 
 .. .. include: posters.rst
 
