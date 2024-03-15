@@ -118,3 +118,4 @@ Dr Pavel Stishenko (Cardiff University)
 
 Oscar van Vuren (Cardiff University)
 
+The organisers would be happy to answer any queries via `email <mailto:vanvureno@cardiff.ac.uk>`_.
