@@ -24,7 +24,10 @@ Time and Place
 --------------
 
 The meeting is being hosted at `The University of Warwick <https://warwick.ac.uk/>`_ on the **15th - 16th of May 2024**.
-The venue is the Science Concourse within the Physics Department. Directions can be found on this `interactive campus map <https://campus.warwick.ac.uk/>`_.
+Talks will run from 12:00 on the 15th to 13:00 on the 16th with tutorials running before (from 09:00 on the 15th) and a code hack
+running afterwards (14:00 - 18:00 on the 16th).
+The meeting venue is the Science Concourse within the Physics Department of the University of Warwick.
+Directions can be found on this `interactive campus map <https://campus.warwick.ac.uk/>`_.
 
 Accommodation and Travel
 ------------------------
@@ -40,7 +43,7 @@ Tutorials
 
 This meeting will include a number of tutorials before the main sessions of talks. The topics of these tutorials are ultimately to be driven by what attendees wish to
 see tutorials on however there will be a session on the fundamentals of FHI-aims and how best to utilise the software.
-Currently suggested topics include a general introduction to FHI-aims, excited state calculations, ASI API or MPE implicit solvation, beyond DFT methods and embedding.
+Currently suggested topics include a general introduction to FHI-aims, excited state calculations, ASI API, MPE implicit solvation, beyond DFT methods and embedding.
 Other, more advanced tutorials will be available and will be published here in due course.
 
 **Full schedule TBA**
@@ -51,8 +54,8 @@ Hack
 ----
 
 After the closing of the main body of the meeting, all attendees are invited to a code hack, wherein the developers of the codebase will get together and take part in some
-collaborative coding. The organisers would like to invite anyone with a suggestion for features to be included in FHI-aims to write these into the appropriate box during
-the registration process.
+collaborative coding. The organisers would like to invite anyone with a suggestion for features to be included in FHI-aims to discuss these at the meeting with the
+developers. 
 
 
 Registration
@@ -63,8 +66,24 @@ Abstracts for both posters and talks are welcomed and can be submitted during th
 **The deadline for registration and abstract submission is 24/04/2024.** Once registered, your place at the meeting will be confirmed by the 
 organising committee after this date.
 
+Programme
+---------
+
+Invited Participants
+^^^^^^^^^^^^^^^^^^^^
+
+`Dr Dorothea Golze <http://dorotheagolze.eu/>`_, Technische Universität Dresden
+
+`Dr Yair Litman <https://litman90.github.io/website/>`_, University of Cambridge
+
+`Dr Christian Carbogno <https://www.fhi.mpg.de/1335369/carbogno_group>`_, Fritz-Haber Insitut
+
+`Prof. Dr Volker Blum <https://mems.duke.edu/faculty/volker-blum>`_ Duke University
+
+`Dr Sebastian Kokott <https://www.ms1p.org/index.php?n=MS1P.AboutUs>`_ Fritz-Haber Institut
+
 Programme of talks
-------------------
+^^^^^^^^^^^^^^^^^^
 
 **Full program is TBA.**
 
@@ -87,19 +106,15 @@ General outline is as follows:
 Organising Committee
 --------------------
 
-University of Warwick
-^^^^^^^^^^^^^^^^^^^^^
-Prof. Reinhard Maurer
+Prof. Reinhard Maurer (University of Warwick)
 
-Dr Svenja Janke
+Dr Svenja Janke (University of Warwick)
 
-Dr Connor box
+Dr Connor box (University of Warwick)
 
-Cardiff University
-^^^^^^^^^^^^^^^^^^
-Dr Andrew Logsdail
+Dr Andrew Logsdail (Cardiff University)
 
-Dr Pavel Stishenko
+Dr Pavel Stishenko (Cardiff University)
 
-Oscar van Vuren
+Oscar van Vuren (Cardiff University)
 
