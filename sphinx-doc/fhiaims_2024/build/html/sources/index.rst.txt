@@ -5,6 +5,7 @@
 
 .. image:: images/FHI-aims-logo.png
    :align: center
+   :scale: 60 %
 
 UK FHI-aims User and Developer Meeting 2024
 ===========================================
@@ -81,6 +82,8 @@ Invited Participants
 `Prof. Dr Volker Blum <https://mems.duke.edu/faculty/volker-blum>`_ Duke University
 
 `Dr Sebastian Kokott <https://www.ms1p.org/index.php?n=MS1P.AboutUs>`_ Fritz-Haber Institut
+
+`Prakriti Kayastha <https://researchportal.northumbria.ac.uk/en/persons/prakriti-kayastha>`_ Northumbria University
 
 Programme of talks
 ^^^^^^^^^^^^^^^^^^
