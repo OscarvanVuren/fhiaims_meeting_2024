@@ -18,23 +18,24 @@ UK FHI-aims User and Developer Meeting 2024
 Overview
 --------
 
-The FHI-aims User and Developer Meeting will bring together the userbase of FHI-aims with the code developers to explore and discuss the impacts and uses of FHI-aims
-within institutions in the UK as well as exhibiting new features and recent developments.
+The FHI-aims User and Developer Meeting aims to unite both the users and developers of FHI-aims to delve into to and exchange ideas
+on the applications and effects of FHI-aims within institutions in the United Kingdom. The event will also showcase the latest
+features and advancements in the software.
 
 Time and Place
 --------------
 
-The meeting is being hosted at `The University of Warwick <https://warwick.ac.uk/>`_ on the **15th - 16th of May 2024**.
-Talks will run from 12:00 on the 15th to 13:00 on the 16th with tutorials running before (from 09:00 on the 15th) and a code hack
-running afterwards (14:00 - 18:00 on the 16th).
-The meeting venue is the Science Concourse within the Physics Department of the University of Warwick.
+The meeting will take place at `The University of Warwick <https://warwick.ac.uk/>`_ from **May 15th to May 16th 2024**.
+Talks are scheduled from 12:00 on the 15th to 13:00 on the 16th with tutorials preceding them (starting at 09:00 on the 15th) and a code hack
+following them (from 14:00 - 18:00 on the 16th).
+The venue for the meeting is the Science Concourse within the Physics Department of the University of Warwick.
 Directions can be found on this `interactive campus map <https://campus.warwick.ac.uk/>`_.
 
 Accommodation and Travel
 ------------------------
 
-Accommodation options include a limited number of rooms available to be booked on the university campus for attendees through `Warwick Conferences <https://warwick.ac.uk/services/conferences/bed-and-breakfast/>`_
-alongside accommodation generally available within Coventry city, a short bus ride from the campus.
+Accommodation options include a limited number of rooms available to be booked on the university campus for attendees through `Warwick Conferences <https://warwick.ac.uk/services/conferences/bed-and-breakfast/>`_.
+Alternatively, accommodation is generally available within Coventry city (a short bus ride from the campus).
 
 Travel to the University of Warwick is achieved easily through rail connections to Coventry station and then a bus journey from outside the station to the campus.
 More information about how to get to the university can be found on the `university website <https://warwick.ac.uk/about/visiting/directions/>`_.
@@ -79,11 +80,11 @@ Invited Participants
 
 `Dr Christian Carbogno <https://www.fhi.mpg.de/1335369/carbogno_group>`_, Fritz-Haber Insitut
 
-`Prof. Dr Volker Blum <https://mems.duke.edu/faculty/volker-blum>`_ Duke University
+`Prof. Dr Volker Blum <https://mems.duke.edu/faculty/volker-blum>`_, Duke University
 
-`Dr Sebastian Kokott <https://www.ms1p.org/index.php?n=MS1P.AboutUs>`_ Fritz-Haber Institut
+`Dr Sebastian Kokott <https://www.ms1p.org/index.php?n=MS1P.AboutUs>`_, Fritz-Haber Institut
 
-`Prakriti Kayastha <https://researchportal.northumbria.ac.uk/en/persons/prakriti-kayastha>`_ Northumbria University
+`Prakriti Kayastha <https://researchportal.northumbria.ac.uk/en/persons/prakriti-kayastha>`_, Northumbria University
 
 Programme of talks
 ^^^^^^^^^^^^^^^^^^
@@ -111,11 +112,11 @@ Organising Committee
 
 Prof. Reinhard Maurer (University of Warwick)
 
-Dr Svenja Janke (University of Warwick)
-
-Dr Connor box (University of Warwick)
-
 Dr Andrew Logsdail (Cardiff University)
+
+Dr Connor Box (University of Warwick)
+
+Dr Svenja Janke (University of Warwick)
 
 Dr Pavel Stishenko (Cardiff University)
 
